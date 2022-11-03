@@ -8,4 +8,5 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-blueviolet?style=plastic&logo=appveyor&logo=Ansible&logoColor=191A1B)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-blue?style=plastic&logo=appveyor&logo=Zabbix&logoColor=191A1B)
 ![Grafana](https://img.shields.io/badge/-Grafana-blueviolet?style=plastic&logo=appveyor&logo=Grafana&logoColor=191A1B)
+![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=appveyor&logo=Linux&logoColor=191A1B)
 
