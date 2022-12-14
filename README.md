@@ -10,3 +10,4 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-blueviolet?style=plastic&logo=appveyor&logo=Grafana&logoColor=191A1B)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=appveyor&logo=Linux&logoColor=191A1B)
 ![Rust](https://img.shields.io/badge/-Rust-blueviolet?style=plastic&logo=appveyor&logo=Rust&logoColor=191A1B)
+<img align="top" src="https://komarev.com/ghpvc/?username=KuramaLife=blueviolet"/>
