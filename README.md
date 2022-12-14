@@ -14,5 +14,5 @@
 ![Rust](https://img.shields.io/badge/-Rust-blueviolet?style=plastic&logo=appveyor&logo=Rust&logoColor=191A1B)
 
 
-<img align="top" src="https://komarev.com/ghpvc/?username=KuramaLife&color=blueviolet"/>
+<img align="top" src="https://github.com/KuramaLife/ghpvc/?username=KuramaLife&color=blueviolet"/>
 
